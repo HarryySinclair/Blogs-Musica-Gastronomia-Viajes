@@ -1,0 +1,59 @@
+body{ background-size: cover;
+     background-attachment: fixed;
+      background-repeat: no-repeat;
+       background-image: url("../img/siuran.jpg");
+ }
+
+
+.favorito{
+     display: flex;
+     margin-left: 25px
+   
+}
+
+.icono{
+     width: 60px;
+     height: 60px;
+     padding-right: 2%;
+     
+}
+
+textarea { width: 50% heigth: 50px }
+
+.favoritos{
+
+     width: 65px;
+     height: 65px;
+}
+
+
+h2{
+     margin-left: -7% !important;
+}
+
+.slogan{
+     margin-left: 100px!important;
+     padding-left:20%;
+}
+    
+.row{
+     width: 100% !important;
+     background: rgba(118, 147,176, 0.5);
+     display: flex;
+     justify-content: center;
+}
+
+
+
+.nueva{
+     margin: 10px;
+     display: flex;
+}
+
+
+.button{
+    heigh:10px;
+
+}
+
+

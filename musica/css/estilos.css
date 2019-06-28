@@ -1,0 +1,104 @@
+body{
+    background: #d50000 ;
+}
+
+.logo-img{
+    width: 30%;
+    padding-top: 5%;
+    padding-bottom: 20px;
+
+}
+
+.img-rounded{
+    width: 15%;
+    padding-top: 25px;
+    padding-bottom: 20%;
+    
+}
+
+.navbar{
+    width: 100%;
+    background: orange;
+   
+}
+
+
+
+.container{
+    background: white;
+    width: 100%;
+    padding-bottom : 25px;
+   
+}
+
+img{
+    width: 90%;
+    height:auto;
+}
+
+.text{
+    width: 100%;
+}
+
+.icono{
+    width: 60px;
+    display: block;
+    margin: auto;
+    padding: top 4px;
+    padding-bottom: 6px;
+}
+
+.icono2{
+    width: 38px;
+    height: 38px;
+    padding-right: 5px;
+  
+}
+
+.row{
+    margin-top: 2px black;
+}
+
+
+/* Cabecera */
+ .encabezado{  background-color: #FFFCF7; }
+
+ ul.navbar-nav { width: 100%; }
+
+ .navbar-light { background-color: #FFAB68; width: 100%; }
+
+ .navbar-nav a { color: #222 !important; }
+
+ .navbar-nav li { margin-left: 7em; }
+
+ /* Fin Cabecera */
+
+
+
+
+
+    .enlaces{margin-left: 35%;
+    }
+
+
+    .navbar{
+        flex-direction: column;
+        text-align: center;
+        margin: 0 auto;
+    }
+        .navbar-nav li { text-align: center; margin: 0 auto; }
+
+
+
+
+
+    .navbar-nav li { text-align: center; margin: 0 auto; }
+
+    .img{
+      width: 100%;
+    }
+
+.persona {
+    padding-top: 20px;
+}
+

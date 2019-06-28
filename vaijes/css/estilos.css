@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("../img/123.jpg");
+}
+
+.logo{
+    width: 200px;
+    height:100px;
+    margin-left: 100px;
+    margin-top: 40px;
+    border-radius: 10%;
+
+}
+
+nav{
+    background:#ff9100 !important;
+    height:250px;
+}
+
+h1{
+    color: black;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+
+i{
+    font-size: 5px;
+}
+
+#facebook,#gorjeo,#instagram-2 ,#youtube,#whatsapp{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}

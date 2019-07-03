@@ -57,3 +57,14 @@ i{
 .icono{
     width: 55px;
 }
+
+.autor{
+   width: 200px;
+   height: 200px;
+   margin: 10px;
+}
+
+p{
+    margin: 10px;
+    text-align: justify;
+}

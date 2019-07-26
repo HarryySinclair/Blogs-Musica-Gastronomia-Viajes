@@ -15,7 +15,7 @@ body{
 }
 
 nav{
-    background:#ff9100 !important;
+    background: gray!important;
     height:250px;
 }
 
@@ -59,8 +59,9 @@ i{
 }
 
 .autor{
-   width: 200px;
-   height: 200px;
+   padding-top: 20px;
+   width: 150px;
+   height: 150px;
    margin: 10px;
 }
 
@@ -68,3 +69,6 @@ p{
     margin: 10px;
     text-align: justify;
 }
+
+.waves-effect{
+    height: 90px;
